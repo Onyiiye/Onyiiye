@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Onyiiye
 - 👀 I’m interested in learning new things and gaining new skills.
-- 🌱 I’m currently learning ALX software engineering, Product Design for Zuri Team and Coursera Python For Everybody.
 - 💞️ I’m looking to collaborate on Ui/Ux design projects.
 - 📫 You can reach me on onyiyehelda14@gmail.com
 
